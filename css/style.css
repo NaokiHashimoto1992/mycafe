@@ -235,4 +235,14 @@ nav li a:hover{
   }
   #menu .menu-item dt{
     width:80%
+  }
+  #menu .menu-item dl{
+  padding: 0 10px;
+  }
+  
+  .fixed-bg {
+    height: 94px;
+    background-attachment: scroll;
+  }
 }
+  
