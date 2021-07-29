@@ -225,3 +225,9 @@ nav li a:hover{
   padding: 10px 0;
   text-align: center;
 }
+
+@media screen and (max-width:765px){
+  #header{
+    box-sizing:border-box;
+  }
+}
