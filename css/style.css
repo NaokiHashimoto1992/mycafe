@@ -230,4 +230,7 @@ nav li a:hover{
   #header{
     box-sizing:border-box;
   }
+  #menu .menu-item{
+  padding: 0 5px;
+  }
 }
