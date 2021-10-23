@@ -241,8 +241,12 @@ nav li a:hover{
   }
   
   .fixed-bg {
-    height: 94px;
+    height: 200px;
     background-attachment: scroll;
+  }
+
+  .sec-title {
+    top: 20%;
   }
 }
   
