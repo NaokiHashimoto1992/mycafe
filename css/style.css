@@ -248,5 +248,10 @@ nav li a:hover{
   .sec-title {
     top: 20%;
   }
+
+  .coffee {
+    position: relative;
+    left: -4%;
+  }
 }
   
